@@ -160,7 +160,8 @@ drwxr-xr-x 5 bitcoin bitcoin    4096 Nov 13 22:28 ..
 -rw------- 1 bitcoin bitcoin     145 Nov 27 15:56 banlist.dat
 -rw-r--r-- 1 bitcoin bitcoin     467 Nov 25 09:07 bitcoin.conf
 -rw------- 1 bitcoin bitcoin       5 Nov 25 09:18 bitcoind.pid
-drwxr-xr-x 3 bitcoin bitcoin   73728 Nov 27 10:58 blocks
+drwxr-xr-x 3 bitcoin bitcoin   73728 Nov 27 10:58 blocked
+
 drwxr-xr-x 2 bitcoin bitcoin   69632 Nov 27 16:12 chainstate
 drwx------ 2 bitcoin bitcoin    4096 Nov 25 09:22 database
 -rw------- 1 bitcoin bitcoin       0 Nov 14 18:50 db.log
